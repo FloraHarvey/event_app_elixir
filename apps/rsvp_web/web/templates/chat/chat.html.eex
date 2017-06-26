@@ -1,0 +1,9 @@
+<h1>Live Chat</h1>
+
+<div class="form-group">
+   <label for="Text"> Type here</label>
+   <input type="text" name="text" value="", id="message">
+</div>
+
+<div class="chat-box">
+</div>
